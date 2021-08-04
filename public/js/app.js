@@ -1,1 +1,1 @@
-console.log('Client side JavaScript is loaaded!')
+console.log('Client Side JavaScript is loaaded!')
