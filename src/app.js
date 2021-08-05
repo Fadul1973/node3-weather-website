@@ -4,7 +4,7 @@ const express = require('express')
 const hbs = require('hbs')
 
 const app = express()
-const port = pocess.env.PORT || 3000 //create port to heroku
+const port = process.env.PORT || 3000 //create port to heroku
 
 // definr path for Express config
 const publiDirectoryPath = path.join(__dirname, '../public')
